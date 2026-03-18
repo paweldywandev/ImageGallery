@@ -2,7 +2,7 @@
 
 A full-stack image gallery application built with ASP.NET Core and React that enables users to upload, view, and manage images with an intuitive interface and robust backend.
 
-**Live Application:** https://imagegallery.paweldywan.com/
+**Live Application:** https://imagegallery.paweldywandev.com/
 
 ## Overview
 
@@ -77,7 +77,7 @@ Before running the application, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/paweldywan/ImageGallery.git
+   git clone https://github.com/paweldywandev/ImageGallery.git
    cd ImageGallery
    ```
 
@@ -246,7 +246,7 @@ Contributions are welcome! Please follow these guidelines:
 
 1. **Fork the repository**
    ```bash
-   git clone https://github.com/paweldywan/ImageGallery.git
+   git clone https://github.com/paweldywandev/ImageGallery.git
    cd ImageGallery
    git checkout -b feature/your-feature-name
    ```
@@ -283,8 +283,8 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 **Pawel Dywan**
 
-- GitHub: [@paweldywan](https://github.com/paweldywan)
-- Website: [https://paweldywan.com/](https://paweldywan.com/)
+- GitHub: [@paweldywandev](https://github.com/paweldywandev)
+- Website: [https://paweldywandev.com/](https://paweldywandev.com/)
 
 ## Acknowledgments
 
@@ -297,4 +297,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ---
 
-For questions, issues, or feature requests, please visit the [GitHub repository](https://github.com/paweldywan/ImageGallery) and open an issue.
+For questions, issues, or feature requests, please visit the [GitHub repository](https://github.com/paweldywandev/ImageGallery) and open an issue.
+
