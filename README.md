@@ -284,7 +284,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 **Pawel Dywan**
 
 - GitHub: [@paweldywandev](https://github.com/paweldywandev)
-- Website: [https://paweldywandev.com/](https://paweldywan.com/)
+- Website: [https://paweldywan.com/](https://paweldywan.com/)
 
 ## Acknowledgments
 
