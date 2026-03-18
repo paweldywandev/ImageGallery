@@ -2,7 +2,7 @@
 
 A full-stack image gallery application built with ASP.NET Core and React that enables users to upload, view, and manage images with an intuitive interface and robust backend.
 
-**Live Application:** https://imagegallery.paweldywandev.com/
+**Live Application:** https://imagegallery.paweldywan.com/
 
 ## Overview
 
@@ -284,7 +284,7 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 **Pawel Dywan**
 
 - GitHub: [@paweldywandev](https://github.com/paweldywandev)
-- Website: [https://paweldywandev.com/](https://paweldywandev.com/)
+- Website: [https://paweldywandev.com/](https://paweldywan.com/)
 
 ## Acknowledgments
 
